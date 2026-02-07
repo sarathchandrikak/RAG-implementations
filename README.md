@@ -164,7 +164,6 @@ This setup supports **private and secure RAG**:
 This repository demonstrates:
 
 * Practical **RAG system design**
-* LangChain-based orchestration patterns
 * Vector database integration
 * Real-world GenAI application architecture
 
