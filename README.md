@@ -128,6 +128,14 @@ RAG-implementations/
 └── README.md
 ```
 
+This project follows this structure
+1. Docs -> Holds Raw documents
+2. Vector -> Holds vectors that get created
+3. Notebooks -> All the logic is implemented in notebooks
+4. requirements.txt -> Requirements needed for the project
+5. README.md -> Read me file with detail explanation of RAG
+6. Pyproject.toml -> Info regarding projects build configuration
+
 ---
 
 ## 🔐 Secure RAG (Private Data)
